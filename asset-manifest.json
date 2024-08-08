@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/uNique-02/personal-portfolio/static/css/main.a147ecde.css",
+    "main.js": "/uNique-02/personal-portfolio/static/js/main.62052ca3.js",
+    "static/js/453.acca0757.chunk.js": "/uNique-02/personal-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/hero.jpg": "/uNique-02/personal-portfolio/static/media/hero.a60f257ca7fc39c22701.jpg",
+    "index.html": "/uNique-02/personal-portfolio/index.html",
+    "main.a147ecde.css.map": "/uNique-02/personal-portfolio/static/css/main.a147ecde.css.map",
+    "main.62052ca3.js.map": "/uNique-02/personal-portfolio/static/js/main.62052ca3.js.map",
+    "453.acca0757.chunk.js.map": "/uNique-02/personal-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a147ecde.css",
+    "static/js/main.62052ca3.js"
+  ]
+}
