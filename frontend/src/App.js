@@ -13,7 +13,7 @@ import Header from './components/Header';
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/personal-portfolio">
         <Header />
         <Routes>
           <Route path="/" element={<Index />} />
